@@ -1,5 +1,6 @@
-## Especificaciones Generales
+### Especificaciones Generales
 ## Sistema Modular de Administración Clínica
+
 
 ##  Antecedentes de la Propuesta
 
