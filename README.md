@@ -1,4 +1,4 @@
-#Sistema Modular de Administración Clínica
+## Sistema Modular de Administración Clínica
 
 ##  Antecedentes de la Propuesta
 
@@ -56,7 +56,7 @@ Desarrollar un sistema modular de administración clínica mediante el lenguaje 
 8. **Arquitectura y Modularidad:** Organizar el código fuente mediante archivos `.c` y `.h`, separando las responsabilidades de cada módulo para facilitar el mantenimiento e integración.
 9. **Pruebas Funcionales:** Realizar pruebas para verificar el correcto funcionamiento de las operaciones, comprobar las validaciones y asegurar la consistencia de la información entre módulos.
 
-## 2.1 Requerimientos Funcionales
+##  Requerimientos Funcionales
 
 | ID | Requerimiento | Descripción |
 | :--- | :--- | :--- |
@@ -75,7 +75,7 @@ Desarrollar un sistema modular de administración clínica mediante el lenguaje 
 
 ---
 
-## 2.2 Requerimientos No Funcionales
+##  Requerimientos No Funcionales
 
 | ID | Categoría | Descripción |
 | :--- | :--- | :--- |
